@@ -6,7 +6,7 @@
 This comprehensive course covers Python programming fundamentals, designed for beginners. Topics include Python syntax, core programming tools like loops and functions, and working with variables.
 [Coursera - Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
 
-## 2. Using Python for Research by Harvard University: (Not Free) ($250) - Intermediate to Advanced Level
+## 2. Using Python for Research by Harvard University: (** Not Free) (Cost - $250) - Intermediate to Advanced Level
 Bridging the gap between introductory and advanced Python courses, this course focuses on Python 3 basics and tools like NumPy and SciPy for research applications.
 [Harvard Online - Using Python for Research](https://www.harvardonline.harvard.edu/course/using-python-research)
 
