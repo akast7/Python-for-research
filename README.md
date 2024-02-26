@@ -2,6 +2,10 @@
 
 ## Welcome to the Python for Research GitHub repository! Below is a curated list of Python courses tailored for researchers and professionals looking to enhance their Python skills.
 
+## 1. (Main Course) Modules 1,2,3,4 of Python for Applied Data Science, AI & Development on Coursera - (Free) | Level - Intermediate to Advanced
+This topic covers essential topics for working with deep learning-based projects and data in Python. It covers key areas such as reading and writing files, data manipulation, and performing mathematical operations using crucial Python libraries like NumPy, Matplotlib, and more.
+[Coursera - Python for Applied Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai#modules)
+
 ## 1. Coursera’s Programming for Everybody (Getting Started with Python) (Free) - Intermediate Level
 This comprehensive course covers Python programming fundamentals, designed for beginners. Topics include Python syntax, core programming tools like loops and functions, and working with variables.
 [Coursera - Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
