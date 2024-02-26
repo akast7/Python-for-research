@@ -1,6 +1,6 @@
 # Python-for-research
 
-## Welcome to the Python for Research GitHub repository! Below is a curated list of Python courses tailored for researchers and professionals looking to enhance their Python skills for deep learning projects.
+## Welcome to the Python for Research GitHub repository! Below is a curated list of Python courses tailored for researchers and professionals looking to enhance their Python skills.
 
 ## 1. Coursera’s Programming for Everybody (Getting Started with Python) (Free) - Intermediate Level
 This comprehensive course covers Python programming fundamentals, designed for beginners. Topics include Python syntax, core programming tools like loops and functions, and working with variables.
